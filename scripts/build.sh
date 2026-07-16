@@ -2,7 +2,7 @@
 
 set -e
 
-FIDO2_VERSION_STABLE="1.17.0_cbor-0.13.0_openssl-3.6.2" # https://developers.yubico.com/libfido2/Releases/
+FIDO2_VERSION_STABLE="1.17.0_cbor-0.13.0_openssl-3.6.3" # https://developers.yubico.com/libfido2/Releases/
 MACOS_VERSION_MIN="11.0"
 CODESIGN_ID="-"
 
